@@ -12,7 +12,7 @@ This is a simple rotating nav page made with HTML CSS and JS.  The Javascript po
 there is a background section that holds the actual navigation links hidden beneath the front page (using z-index css).  
 
 ## URL
-![rotatingNav](https://paolourciullo.github.io/rotatingNav/)
+[rotatingNav](https://paolourciullo.github.io/rotatingNav/)
 
 
 ## Usage
